@@ -1,0 +1,26 @@
+Carlo Quitorio
+-13 ==> 87/100
+
+
+F21 CS113 Exam1
+----------------
+1.a(6): OK
+  b(7): -2 (partly incorrect)
+  c(7): -1, -1 (diagram, NOR)
+  d(5): -1 (5 bits, instead of 5 inputs)
+
+2.a(12): -1 (M = 10^6, speedup computation reversed)
+  b(8): OK
+
+3.(10): -1 (M = 10^6, also unit is missing)
+
+4.a(6): -3
+  b(4): OK
+
+5.a(6): OK
+  b(7): -1
+  c(7): OK
+
+6.a(7): -2
+  b(8): OK
+
