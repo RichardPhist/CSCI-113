@@ -1,0 +1,6 @@
+﻿  Assignment9.cpp
+D:\CSCI 113\Assignments\Assignment9\Assignment9\Assignment9.cpp(54,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CSCI 113\Assignments\Assignment9\Assignment9\Assignment9.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+D:\CSCI 113\Assignments\Assignment9\Assignment9\Assignment9.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+D:\CSCI 113\Assignments\Assignment9\Assignment9\Assignment9.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+  Assignment9.vcxproj -> D:\CSCI 113\Assignments\Assignment9\Debug\Assignment9.exe

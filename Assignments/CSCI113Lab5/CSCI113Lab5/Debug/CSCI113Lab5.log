@@ -1,0 +1,4 @@
+﻿  CSCI113Lab5.cpp
+D:\CSCI 113\Assignments\CSCI113Lab5\CSCI113Lab5\CSCI113Lab5.cpp(141,23): warning C4018: '<': signed/unsigned mismatch
+D:\CSCI 113\Assignments\CSCI113Lab5\CSCI113Lab5\CSCI113Lab5.cpp(272,9): warning C4101: 'shiftArray': unreferenced local variable
+  CSCI113Lab5.vcxproj -> D:\CSCI 113\Assignments\CSCI113Lab5\Debug\CSCI113Lab5.exe
